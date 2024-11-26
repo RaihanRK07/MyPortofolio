@@ -1,6 +1,6 @@
 .jumbotron {
   padding-top: 20vh;
-  background-color: #F86F03;
+  background-color: #f80303;
 }
 
 #about {
@@ -17,12 +17,12 @@
 
 #projects {
   padding-top: 1vh;
-  background-color: #FFA41B;
+  background-color: #f80303;
 }
 
 .footer {
   padding-top: 1vh;
-  background-color: #F86F03;
+  background-color: #f80303;
 }
 
 .gallery-img {
